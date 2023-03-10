@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AbstractLista"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"HashFactory"},{"p":"<Unnamed>","l":"IList"},{"p":"<Unnamed>","l":"Node"},{"p":"<Unnamed>","l":"Principal"},{"p":"<Unnamed>","l":"SingleLinkedList"}];updateSearchResults();
